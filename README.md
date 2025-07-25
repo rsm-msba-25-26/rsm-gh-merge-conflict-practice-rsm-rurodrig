@@ -29,7 +29,9 @@ After `cloning` the assignment you should make two commits:
 
 ---
 
-Your name: Ruby Rodriguez Date: <insert-the-date-here>
+
+Your name: Ruby Rodriguez Date: July 25, 2025
+
 
 ---
 
